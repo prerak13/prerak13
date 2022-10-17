@@ -12,7 +12,7 @@
 
 📝I also sometimes like write technical blogs on [Medium](https://medium.com/@prerakchoksi).
 
-☢️ I am open for co-op / full-time oppertunities from this Fall.
+☢️ I am open for full-time oppertunities as Software Developer from this Winter.
 
 ## 🔗 Connect with me
 
