@@ -4,7 +4,7 @@
 
 💻 I'm a FULL STACK DEVELOPER & AWS CERTIFIED CLOUD PRACTITIONER.
 
-🎓 I am currently persuing my Masters at Dalhousie University.
+🎓 I am currently working as COOP Software Developer at Arcticwolf Networks, as part of my Masters in Computer Science at Dalhousie University.
 
 👨🏻‍💻 Prior to this I have worked at Tata Consultancy Services for 3 years as a Software Engineer.
 
