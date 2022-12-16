@@ -6,7 +6,7 @@
 
 🎓 I am currently working as COOP Software Developer at Arcticwolf Networks, as part of my Masters in Computer Science at Dalhousie University.
 
-👨🏻‍💻 Prior to this I have worked at Tata Consultancy Services for 3 years as a Software Engineer.
+👨🏻‍💻 Prior to this I have worked at Tata Consultancy Services for 3.5 years as a Software Engineer.
 
 💫 My field of interest is Cloud, Backend and Full Stack development.
 
