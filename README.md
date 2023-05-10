@@ -4,15 +4,15 @@
 
 💻 I'm a FULL STACK DEVELOPER & AWS CERTIFIED CLOUD PRACTITIONER.
 
-🎓 I am currently working as COOP Software Developer at Arcticwolf Networks, as part of my Masters in Computer Science at Dalhousie University.
+🎓 I am currently working as Software Developer at Huawei Cloud.
 
-👨🏻‍💻 Prior to this I have worked at Tata Consultancy Services for 3.5 years as a Software Engineer.
+👨🏻‍💻 Prior to this I have worked at Tata Consultancy Services for 3.5 years as a Software Engineer and  COOP Software Developer at Arcticwolf Networks.
 
 💫 My field of interest is Cloud, Backend and Full Stack development.
 
 📝I also sometimes like write technical blogs on [Medium](https://medium.com/@prerakchoksi).
 
-☢️ I am open for full-time oppertunities as Software Developer from this Winter.
+☢️ I am open for full-time oppertunities as Software Developer.
 
 ## 🔗 Connect with me
 
