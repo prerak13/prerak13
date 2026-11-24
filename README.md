@@ -2,17 +2,15 @@
 
 ## 🚀 About Me
 
-💻 I'm a FULL STACK DEVELOPER & AWS CERTIFIED CLOUD PRACTITIONER.
+💻 I'm a Senior Software Developer & AWS CERTIFIED CLOUD PRACTITIONER.
 
-🎓 I am currently working as Software Developer at Huawei Cloud.
+🎓 I have worked at various companies including Intuit, Huawei, Arcticwolf and TCS.
 
-👨🏻‍💻 Prior to this I have worked at Tata Consultancy Services for 3.5 years as a Software Engineer and  COOP Software Developer at Arcticwolf Networks.
+👨🏻‍💻 Currently I am looking for new oppertunities and also developing a Rag based wellness application MyDiary[https://github.com/prerak13/MyDiary].
 
 💫 My field of interest is Cloud, Backend and Full Stack development.
 
 📝I also sometimes like write technical blogs on [Medium](https://medium.com/@prerakchoksi).
-
-☢️ I am open for full-time oppertunities as Software Developer.
 
 ## 🔗 Connect with me
 
