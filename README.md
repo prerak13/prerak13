@@ -6,7 +6,7 @@
 
 🎓 I have worked at various companies including Intuit, Huawei, Arcticwolf and TCS.
 
-👨🏻‍💻 Currently I am looking for new oppertunities and also developing a Rag based wellness application [MyDiary] (https://github.com/prerak13/MyDiary).
+👨🏻‍💻 Currently I am looking for new oppertunities and also developing a Rag based wellness application [MyDiary](https://github.com/prerak13/MyDiary).
 
 💫 My field of interest is Cloud, Backend and Full Stack development.
 
